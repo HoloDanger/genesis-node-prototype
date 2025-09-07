@@ -1,0 +1,17 @@
+# The Architect's Forge: A Commitment in Building in Public
+
+Fragmentation is a constant problem that plagues humanity for as long as they have lived. Throughout the good and bad, the revolutions, the wars, the inventions, entropy is and will follow humankind wherever they might go. Even though it is ever present and always around, people do not notice it as it is, and in the current age, it is starting to get even worse. The world is fully globalized, where every message, post, and information can be accessed in a blink of an eye. Throughout that interconnectedness lies a tendency for people to use the tools that give them that power for all the reasons, right and wrong. Because of this interconnectedness, the systems placed for and by humanity makes it so that noise is more present than ever, where all the signals and the useful information are being buried under all the different kinds of useless ones, people are chasing peaks that are set up for them, whether it be money, position, or status, and stress and burnout are becoming more normalized by the second. What if there was a way to build a system where the tools are not the central figure, but rather humans itself? A system where a calmer, more humane, and more sustainable is the standard to build technology and to work?
+
+This repository is my public forge, a project and an experiment to see and learn how to build this better system and this better way. It is a space where I conduct a stress-test for myself in conducting the ways I could address this fragmentation problem, done as a sort of self-appointed apprenticeship. My goal is to learn and master the fundamental principles of building calm, reliable and humane systems. This forge will be my way of integrating systems from different fields, specifically psychology, engineering, philosophy, organizations, systems thinking, and computer science.
+
+Over these next nine months, I'll be learning tools that will help me be able to build those kinds of systems, and apply those principles to projects I make. Tools that I will be utilizing include, but are not limited to:
+
+- Linux
+- Docker
+- SRE Principles
+- Networking Concepts
+- Terraform
+
+This application that I will make, a prototype mental wellness app, will serve as a "Sanctuary", where people are free to use it to de-stress and learn more about themselves through mindfulness, and not a "Slot Machine" where streaks and notifications are the norm. This will serve as the first out of many projects I will do, documenting my journey as I go, every success, every failure, and most importantly, every lessons I learn, right here in this Digital Garden.
+
+I am a 4th-year Computer Science student here in the Philippines, who feels a responsibility to make changes based on the symptoms I am noticing and seeing all throughout my environment, the normalizatoin of late nights and sleep deprivation, the quizzes and exams that force people into these late nights and unhealthy habits, and the work that my generation and even other generations put into, forcing them to participate in the big game set up by the fragmented systems. I'm doing this because I believe my generation deserves better tools and a better system for them, and I feel a personal responsibility to respond to and address these problems by learning how to build them. I hope this journey will be useful to others, as much as it would be useful to me. 
