@@ -18,6 +18,8 @@ This repository serves as the **Black Box** for the Genesis project. It document
     *   *Moving from coding to composing. The rise of the System.*
 *   **[005: The Physics of Friction](./docs/005-the-physics-of-friction.md)**
     *   *Analyzing where energy is lost. Optimizing the developer loop.*
+*   **[006: The Efficiency Baseline](./docs/006-the-efficiency-baseline.md)**
+    *   *Architecting for resilience. Proof-of-concept for high-density systems.*
 
 ---
 
