@@ -4,7 +4,7 @@
 
 ## 📜 THE FORGE (Architectural Logs)
 
-This repository serves as the **Black Box** for the Genesis project. It documents the philosophy, the friction, and the architecture behind building sovereign systems in an age of entropy.
+This repository serves as the **Operational Log** for the Genesis project. It documents the philosophy, the performance metrics, and the architecture behind building high-integrity systems in an age of increasing computational complexity.
 
 ### 🗂️ THE INDEX
 
