@@ -24,6 +24,8 @@ This repository serves as the **Operational Log** for the Genesis project. It do
     *   *Touching the metal via ioctl. Purging dependency slop for the Potato Standard.*
 *   **[008: Foundations and Fine-Tuning](./docs/008-foundations-and-fine-tuning.md)**
     *   *Hardware inversion, citation anchoring, and closing the academic chapter.*
+*   **[009: Six Months Later](./docs/009-six-months-later.md)**
+    *   *Post-graduation reflection, measured Go heap realities, and building in quiet.*
 
 ---
 
