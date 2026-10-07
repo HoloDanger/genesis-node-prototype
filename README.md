@@ -20,6 +20,10 @@ This repository serves as the **Operational Log** for the Genesis project. It do
     *   *Analyzing where energy is lost. Optimizing the developer loop.*
 *   **[006: The Efficiency Baseline](./docs/006-the-efficiency-baseline.md)**
     *   *Architecting for resilience. Proof-of-concept for high-density systems.*
+*   **[007: The Vivisection and the Great Purge](./docs/007-the-vivisection-and-the-great-purge.md)**
+    *   *Touching the metal via ioctl. Purging dependency slop for the Potato Standard.*
+*   **[008: Foundations and Fine-Tuning](./docs/008-foundations-and-fine-tuning.md)**
+    *   *Hardware inversion, citation anchoring, and closing the academic chapter.*
 
 ---
 
